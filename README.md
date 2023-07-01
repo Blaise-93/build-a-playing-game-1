@@ -5,8 +5,6 @@ $ npm install
 $ npm start
 ````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-
 # Scrimba Course
 the project aim is to build a game app whereby either a wizard wins or orc wins and/or the both dies with a progress health bar. It has other functionality btw. 
 
